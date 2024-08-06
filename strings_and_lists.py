@@ -1,0 +1,2 @@
+dataset = 'pbYjrMsb7325ve9ndvNaywOODPavatWImBaHkMt2Equus6OYKB2owsC3Q00ZUwzS2UHdLwy7LEaT29ayp4yQDKY3O6ScGu0HPGIb4upNSEzxPP68wIb7b0yWcVBhUgserricollis2bY4gdv7fYvvKN6Dm20A5Z9ds0fMqGxj2LnFnnFO0ZK9.'
+print(dataset[40:45], dataset[126:137])  
